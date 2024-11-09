@@ -6,7 +6,7 @@
 <p align="center">
 - 🏫: I'm a `Computer Science & Information Technology Fresh Graduate` From <br> The Faculty of Computer & Information Sciences - Kafr El-Sheikh University <br>
 - 🌱 I’m Currently Studying `FRONT-END` and `BACK-END`<br>
-- 📫 How to Reach Me **hussainelsid990@gmail.com** <br>
+- 📫 How to Reach Me    <a href="mailto:manarshahin48@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>   <br>
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]( ).<br>
 - :nerd_face: Always `learning new things`<br>
 - 🐼 Doing my best <br>
